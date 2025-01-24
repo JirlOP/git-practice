@@ -60,4 +60,9 @@ git checkout -b feature/T1/challenge-runbook
 
 8. Make meaningful commits with clear, descriptive messages.
 
-
+For example this file was commited as:
+```bash
+git add .
+git commit -m "Add: Runbook for challenge"
+git push origin feature/T1/challenge-runbook
+```
